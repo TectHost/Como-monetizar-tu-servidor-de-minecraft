@@ -24,7 +24,7 @@ tags, cosméticos, si estaría permitido, algo muy común en muchos survival es 
 acceso al comando /fly, este comando también esta prohibido vender.
 
 ### 3 - ¿Que página puedo usar para crear mi tienda online?
-#### 1 – [Tebex/BuyCraft](https://tebex.io/
+#### 1 – [Tebex/BuyCraft](https://tebex.io/)
 Esta es probablemente la página mas usada para Minecraft y otros juegos, lo usa los principales
 servidores de Minecraft y es por eso que nosotros recomendamos usar Tebex.
 Servidores que usan Tebex:
